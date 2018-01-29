@@ -16,7 +16,7 @@ To use simply run:
   Make "-p" is an optional parameter that allows you to print all prime numbers found. "limit" is the number up to which the number of primes will be found.
   
   
-  For example, running ./main -p 20 would yield:
+  For example, running "./main -p 20" would yield:
   
              Now printing primes from 2 to 20.....
              
